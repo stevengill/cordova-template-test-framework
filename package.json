@@ -12,7 +12,7 @@
   },
   "keywords": [
     "ecosystem:cordova",
-    "cordova-template",
+    "cordova:template",
     "cordova",
     "phonegap"
   ],
