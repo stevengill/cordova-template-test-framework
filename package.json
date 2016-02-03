@@ -1,6 +1,6 @@
 {
   "name": "cordova-template-test-framework",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cordova template for running cordova plugin tests",
   "main": "index.js",
   "scripts": {
