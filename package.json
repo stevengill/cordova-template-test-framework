@@ -1,0 +1,25 @@
+{
+  "name": "cordova-template-test-framework",
+  "version": "1.0.0",
+  "description": "cordova template for running cordova plugin tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevengill/cordova-template-test-framework.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-template",
+    "cordova",
+    "phonegap"
+  ],
+  "author": "Steve Gill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevengill/cordova-template-test-framework/issues"
+  },
+  "homepage": "https://github.com/stevengill/cordova-template-test-framework#readme"
+}
